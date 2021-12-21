@@ -15,18 +15,18 @@
 ### There are more factors also that are not listed here, that is in the notebook
 
 ### Library used are list below
-##### pandas 
-##### numpy 
-##### randint from random
-##### from sklearn.tree import DecisionTreeClassifier
-#### from sklearn.svm import SVC
-#### from sklearn.neighbors import KNeighborsClassifier
-#### from sklearn.naive_bayes import GaussianNB
-#### from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
-#### from sklearn.linear_model import LogisticRegression
-#### from sklearn.ensemble import RandomForestClassifier
-#### from sklearn.metrics import accuracy_score
-#### from sklearn.metrics import confusion_matrix
-#### from sklearn.metrics import classification_report
+### import  pandas 
+### import numpy 
+### from random import randint
+### from sklearn.tree import DecisionTreeClassifier
+### from sklearn.svm import SVC
+### from sklearn.neighbors import KNeighborsClassifier
+### from sklearn.naive_bayes import GaussianNB
+### from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+### from sklearn.linear_model import LogisticRegression
+### from sklearn.ensemble import RandomForestClassifier
+### from sklearn.metrics import accuracy_score
+### from sklearn.metrics import confusion_matrix
+### from sklearn.metrics import classification_report
 
-##### os and they can be install by adding pip install any of the library
+### os and they can be install by adding pip install any of the library
